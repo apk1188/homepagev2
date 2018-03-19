@@ -1,0 +1,104 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+
+
+#header4-1 H1 {
+  color: #ffffff;
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#header4-1 SPAN {
+  color: #b8312f;
+  font-size: 60px;
+  font-family: 'Roboto Slab', serif;
+}
+#msg-box3-7 .mbr-header .mbr-header__text {
+  text-align: center;
+  font-size: 32px;
+}
+#msg-box3-7 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-7 .mbr-article P {
+  font-size: 20px;
+}
+#features1-4 .mbr-section-title .mbr-header__text {
+  font-size: 32px;
+}
+#dropdown-menu-2btn-5 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-5 .nav .link,
+#dropdown-menu-2btn-5 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-5 .navbar,
+#dropdown-menu-2btn-5 .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-2btn-5 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-5 .dropdown-menu a:hover,
+#dropdown-menu-2btn-5 .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-2btn-5 .navbar-toggler {
+  color: #ffffff;
+}
+#contacts3-6 STRONG {
+  color: #ffffff;
+}
+
+
+#header4-8 H1 {
+  color: #ffffff;
+  font-size: 48px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#header4-8 SPAN {
+  color: #b8312f;
+  font-size: 60px;
+  font-family: 'Roboto Slab', serif;
+}
+#msg-box3-9 .mbr-header .mbr-header__text {
+  text-align: center;
+  font-size: 30px;
+}
+#msg-box3-9 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-9 .mbr-article P {
+  font-size: 20px;
+}
+#features1-a .mbr-section-title .mbr-header__text {
+  font-size: 30px;
+  text-align: center;
+}
+#features1-a P {
+  text-align: center;
+}
+#dropdown-menu-2btn-b .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-b .nav .link,
+#dropdown-menu-2btn-b .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-b .navbar,
+#dropdown-menu-2btn-b .dropdown-menu {
+  background: #414141;
+}
+#dropdown-menu-2btn-b .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-b .dropdown-menu a:hover,
+#dropdown-menu-2btn-b .dropdown-menu a:focus {
+  background: #373737;
+}
+#dropdown-menu-2btn-b .navbar-toggler {
+  color: #ffffff;
+}
+#contacts3-c STRONG {
+  color: #ffffff;
+}
